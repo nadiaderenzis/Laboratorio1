@@ -1,0 +1,397 @@
+# depslib dependency file v1.0
+1493841292 source:e:\facu\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493573709 e:\facu\asistencia_medica\atencion medica\validaciones.h
+
+1493490185 e:\facu\asistencia_medica\atencion medica\estructuras.h
+
+1493841292 e:\facu\asistencia_medica\atencion medica\cargayedicion.h
+
+1493866125 source:e:\facu\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493866108 e:\facu\asistencia_medica\atencion medica\edicionarrays.h
+
+1493573709 source:e:\facu\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493865355 source:e:\facu\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+
+1493866030 source:e:\facu\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493865991 e:\facu\asistencia_medica\atencion medica\lib.h
+
+1493864849 source:e:\facu\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493864832 e:\facu\asistencia_medica\atencion medica\busqueda.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.h
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.h
+
+1493874958 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.h
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871829 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\estructuras.h
+
+1493875122 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493875314 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+
+1493852250 c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\lib.h
+
+1493852250 source:c:\users\nderenzis\desktop\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493923015 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.h
+
+1493914205 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.h
+
+1493914562 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.h
+
+1493923666 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\busqueda.h
+
+1493914415 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493871829 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\estructuras.h
+
+1493914184 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493915331 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493917255 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493923640 source:c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1493908963 c:\users\nderenzis\documents\laboratorio1\cascara\cascara_parcial-master\asistencia_medica\atencion medica\lib.h
+
+1493941816 source:d:\nadia\laboratorio1\parcial\parcial_cascara\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493852250 d:\nadia\laboratorio1\parcial\parcial_cascara\validaciones.h
+
+1493941864 d:\nadia\laboratorio1\parcial\parcial_cascara\cargayedicion.h
+
+1493936899 d:\nadia\laboratorio1\parcial\parcial_cascara\edicionarrays.h
+
+1493941759 d:\nadia\laboratorio1\parcial\parcial_cascara\busqueda.h
+
+1493937846 source:d:\nadia\laboratorio1\parcial\parcial_cascara\edicionarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+
+1493871830 d:\nadia\laboratorio1\parcial\parcial_cascara\estructuras.h
+
+1493941557 source:d:\nadia\laboratorio1\parcial\parcial_cascara\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1493914186 source:d:\nadia\laboratorio1\parcial\parcial_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1493941667 source:d:\nadia\laboratorio1\parcial\parcial_cascara\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1493940875 source:d:\nadia\laboratorio1\parcial\parcial_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1493941557 d:\nadia\laboratorio1\parcial\parcial_cascara\lib.h
+
+1494864724 source:c:\users\dem\desktop\laboratorio1\parcial\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1494864724 c:\users\dem\desktop\laboratorio1\parcial\validaciones.h
+
+1494867429 c:\users\dem\desktop\laboratorio1\parcial\cargayedicion.h
+
+1494864724 c:\users\dem\desktop\laboratorio1\parcial\edicionarrays.h
+
+1494864724 c:\users\dem\desktop\laboratorio1\parcial\busqueda.h
+
+1494867429 source:c:\users\dem\desktop\laboratorio1\parcial\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1494864724 c:\users\dem\desktop\laboratorio1\parcial\estructuras.h
+
+1494864724 source:c:\users\dem\desktop\laboratorio1\parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
+1494869667 source:c:\users\dem\desktop\laboratorio1\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1494864724 c:\users\dem\desktop\laboratorio1\parcial\lib.h
+
+1494869276 source:c:\users\dem\desktop\laboratorio1\parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1494859320 source:c:\users\nderenzis\desktop\parcial-nadia\busqueda.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1494859320 c:\users\nderenzis\desktop\parcial-nadia\validaciones.h
+
+1494882567 c:\users\nderenzis\desktop\parcial-nadia\cargayedicion.h
+
+1494859320 c:\users\nderenzis\desktop\parcial-nadia\edicionarrays.h
+
+1494859320 c:\users\nderenzis\desktop\parcial-nadia\busqueda.h
+
+1494882584 source:c:\users\nderenzis\desktop\parcial-nadia\cargayedicion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"validaciones.h"
+	"estructuras.h"
+	"cargaYEdicion.h"
+	"busqueda.h"
+
+1494859320 c:\users\nderenzis\desktop\parcial-nadia\estructuras.h
+
+1494884328 source:c:\users\nderenzis\desktop\parcial-nadia\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"busqueda.h"
+
+1494892592 source:c:\users\nderenzis\desktop\parcial-nadia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+	"cargaYEdicion.h"
+	"edicionArrays.h"
+	"lib.h"
+	"busqueda.h"
+
+1494884088 c:\users\nderenzis\desktop\parcial-nadia\lib.h
+
+1494859320 source:c:\users\nderenzis\desktop\parcial-nadia\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"cargaYEdicion.h"
+
